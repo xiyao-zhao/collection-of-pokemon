@@ -1,0 +1,8 @@
+#wrap{
+    display: inline-block;
+}
+
+#wrap p {
+    text-align: center;
+    margin: 0;
+}
