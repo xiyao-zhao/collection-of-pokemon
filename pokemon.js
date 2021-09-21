@@ -14,5 +14,5 @@ for(let i = 1; i <= 300; i++){
 
     const num = document.createElement('p');
     num.innerHTML = `#${i}`;
-    wrap.appendChild(num);
+    wrap.append(num);
 }
